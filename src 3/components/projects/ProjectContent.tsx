@@ -59,7 +59,6 @@ export default function ProjectContent({ project }: ProjectContentProps) {
               <span>18.1k</span>
             </div>
             <button className="bg-primary text-white px-6 py-3 rounded-lg flex items-center gap-2 hover:bg-primary/90 transition-colors">
-              Live Preview
               <LinkIcon className="w-4 h-4" />
             </button>
           </motion.div>
